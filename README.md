@@ -42,8 +42,5 @@ In addition:
 This GitHub profile is a space where I share my projects, experiences, and progress throughout my journey.
 Feel free to explore and follow along! 🚀🛠️💫
 
-### Últimos videos:
-- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
-- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
-- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+### Future videos:
+- [Trailer 1](https://www.youtube.com/watch?v=RP4UTOek0-Y)<br/>
