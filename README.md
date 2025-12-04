@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Ícaro 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://icaro.com/)](https://sites.google.com/view/portfolioicaro87/p%C3%A1gina-inicial?authuser=0)
+[![Blog](https://img.shields.io/website?label=icaro.com&style=for-the-badge&url=https://icaro.com/)](https://sites.google.com/view/portfolioicaro87/p%C3%A1gina-inicial?authuser=0)
 
 ## Tecnologias que eu uso no meu dia
 
