@@ -3,7 +3,7 @@
 
 [![Blog](https://img.shields.io/website?label=icaro.com&style=for-the-badge&url=https://icaro.com/)](https://sites.google.com/view/portfolioicaro87/p%C3%A1gina-inicial?authuser=0)
 
-## Technologies that I use in my day-to-day life
+## Technologies that I use in my day-to-day lif e
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
