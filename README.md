@@ -39,4 +39,4 @@ This GitHub profile is a space where I share my projects, experiences, and progr
 Feel free to explore and follow along! 🚀🛠️💫
 
 ### Future videos:
-- [Trailer 1](https://www.youtube.com/watch?v=RP4UTOek0-Y)<br/>
+- [Trailer 1](https://www.youtube.com/watch?v=RP4UTOekY)<br/>
